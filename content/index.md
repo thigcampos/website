@@ -9,5 +9,5 @@ Sou um criativo de margens difusas: apaixonado por desenho industrial, fotógraf
 Entre uma linha e outra, saboreio histórias bem contadas, pratos bem feitos e livros que me fazem perder a hora e reencontrar a mim mesmo. 
 Vivo entre palavras e formas, buscando o ponto exato onde razão e sensibilidade se encontram.
 
-No fim, sou isso: um eterno aprendiz — <a href="https://github.com/thigcampos" target="_blank">programador</a>, <a href="https://mastodon.social/@thgcmps" target="_blank">escritor</a>, cozinheiro, <a href="https://instagram.com/thigcampos" target="_blank">fotógrafo</a>, e acima de tudo, curioso. 
+No fim, sou isso: um eterno aprendiz — <a href="https://github.com/thigcampos" target="_blank">programador</a>, <a rel="me" href="https://mastodon.social/@thgcmps" target="_blank">escritor</a>, cozinheiro, <a href="https://instagram.com/thigcampos" target="_blank">fotógrafo</a>, e acima de tudo, curioso. 
 Moldando o mundo com o que tenho à mão.
